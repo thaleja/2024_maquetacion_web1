@@ -1,0 +1,45 @@
+
+
+.container1 {
+    
+    width: 95%;
+    height: 80px;
+    border: 5px solid #000; /* Línea exterior */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 5px; /* Espacio a la izquierda */
+
+
+}
+
+.inner-container1 {
+    width: 70%;
+    height: 30px;
+    background-color: #fff;
+    border: 2px solid #000; /* Línea interior */
+    line-height: 50px; /* Ajustar la altura del cuadro para centrar el texto */
+    text-align: left;
+    margin-left: 100px; /* Espacio a la izquierda */
+    margin-top: 20px;
+
+}
+
+
+.search-icon {
+
+    font-size: 2em;
+    margin-top: -45px;
+    margin-left: 1000px; /* Espacio a la izquierda */
+}
+
+.flechas1 {
+
+    font-size: 2em;
+    margin-top: -45px;
+    margin-left: -950px; /* Espacio a la izquierda */
+    justify-content: space-between;
+}
